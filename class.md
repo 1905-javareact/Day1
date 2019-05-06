@@ -5,6 +5,7 @@
 | Michele      | Dexter      |   Pizza                     |              Wolf             |
 | Ernesto      | Ballon      |   Pasties                   |              Wolf             |
 | Robert       | Simmons     |   Pizza                     |              Dog              |
-| David        | Ubah        |   Chicken                   |              null             |
+| David        | Ubah        |   Chicken                   |              Cat              |
+| James        | Carrell     |   Burger                    |              null             |
 
   
