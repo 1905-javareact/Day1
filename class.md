@@ -4,4 +4,7 @@
 | Angel        | Rodriguez   |   Roasted Pineapple         |              Squirrel         |
 | Michele      | Dexter      |   Pizza                     |              Wolf             |
 | Ernesto      | Ballon      |   Pasties                   |              Wolf             |
-| Robert       | Simmons     |   Pizza                     |              null             |
+| Robert       | Simmons     |   Pizza                     |              Dog              |
+| David        | Ubah        |   Chicken                   |              null             |
+
+  
