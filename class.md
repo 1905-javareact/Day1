@@ -3,5 +3,5 @@
 | Alec         | Batson      |   null                      |              Dragon           |
 | Angel        | Rodriguez   |   Roasted Pineapple         |              Squirrel         |
 | Michele      | Dexter      |   Pizza                     |              Wolf             |
-| Ernesto      | Ballon      |   Pizza                     |              Wolf             |
-| Robert       | Simmons     |   Pizza                     |                               |
+| Ernesto      | Ballon      |   Pasties                   |              Wolf             |
+| Robert       | Simmons     |   Pizza                     |              null             |
