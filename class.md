@@ -7,5 +7,5 @@
 | Robert       | Simmons     |   Pizza                     |              Dog              |
 | David        | Ubah        |   Chicken                   |              Cat              |
 | James        | Carrell     |   Burger                    |               Cow             |
-  Suresh       | Basnet       | Chicken                    |             null
-  
+|  Suresh      | Basnet      | Chicken                     |             Sea Lion          |
+| Hermes       | Lisoma      |  French fries               |            null               |
