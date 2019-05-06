@@ -1,6 +1,7 @@
 | First Name   | Last Name   | Last Person's Favorite Food | Next Person's Favorite Animal |
 | ------------ | ----------- | --------------------------- | ----------------------------- |
 | Alec         | Batson      |   null                      |              Dragon           |
-| Angel        | Rodriguez   |   Pizza                     |              Squirrel         |
+| Angel        | Rodriguez   |   Roasted Pineapple         |              Squirrel         |
 | Michele      | Dexter      |   Pizza                     |              Wolf             |
-| Ernesto      | Ballon      |   Pizza                     |                               |
+| Ernesto      | Ballon      |   Pizza                     |              Wolf             |
+| Robert       | Simmons     |   Pizza                     |                               |
